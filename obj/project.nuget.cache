@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jkhyAZrqsCogQ/oERdC8domgXTZlGvDxP/Gmlx5h5/1k6LNhM9otpWNxICSb2agO2lX1zHlFWMRayH+yTZYDlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos-github\\Cronometro\\Stopwatch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

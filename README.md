@@ -4,7 +4,12 @@
 </p>
 
 ## :books: Informações
-Primeira versão do meu projeto "Cronômetro em C#", o qual a aula foi orientada pelo Andre Baltieri. Neste projeto foi utilizado várias funções sobre conversão para tempo ou caracteres e uma maior utilização do "Thread.Sleep".
+Primeira versão do meu projeto "Cronômetro em C#", o qual a aula foi orientada pelo Andre Baltieri. Neste projeto foi utilizado várias funções, como:
+- Uso do "ToLower()"
+- Uso do "Substring"
+- Pegar apenas partes de valores e converter para algo
+- Utilização do "Thread.Sleep"
+- Uso do "While"
 
 ## :pushpin: Tecnologias
 <ul>
